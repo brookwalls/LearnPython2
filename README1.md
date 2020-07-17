@@ -46,5 +46,16 @@ Exercise 12: Prompting People
 Went through a different way of getting input values.
 
 Exercise 13: Parameters, Unpacking, Variables
-Went through how to import input values
+Went through how to import input values.
+
+Exerise 14: Prompting and Passing
+Went through using multiple ways of passing input in one file.
+
+Exerise 15: Reading Files
+Went through two way you can read a file.
+
+Exercise 16: Reading and Writing Files
+The program reads the file and then writes information into the file.
+
+Exercise 17: More Files
 
