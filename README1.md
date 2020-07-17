@@ -58,4 +58,6 @@ Exercise 16: Reading and Writing Files
 The program reads the file and then writes information into the file.
 
 Exercise 17: More Files
+Went through more ways of dealing with files
 
+Exercise 18: Names, Variables, Code, Functions
