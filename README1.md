@@ -14,5 +14,6 @@ I learned that comparison in python are more simple. Also, you don't have to
 have a ; at the end of each line. Lastly, for print line you don't have to 
 have (). 
 
-
+Example 4:
+When declaring variables you don't have to state its type ahead of time. 
 
