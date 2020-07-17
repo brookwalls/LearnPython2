@@ -43,4 +43,8 @@ Exercise 11: Asking Questions
 Worked with inputing values.
 
 Exercise 12: Prompting People
+Went through a different way of getting input values.
+
+Exercise 13: Parameters, Unpacking, Variables
+Went through how to import input values
 
