@@ -28,4 +28,7 @@ Example 6: Strings and Text
 Went through more ways of treating strings.
 
 Example 7: More Printing
+This program had nothing new in it. 
 
+Example 8: Printing, Printing
+This program had nothing new in it. 
