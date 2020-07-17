@@ -1,0 +1,5 @@
+age = raw_input("How old are you? ")
+height = raw_input("How tall are you? ")
+weight = raw_input("How much do you weigh? ")
+family_size = raw_input("How many people are in your family? ")
+print "So, you're %r old, %r tall, %r pounds and in a %r person family." % (age, height, weight, family_size)

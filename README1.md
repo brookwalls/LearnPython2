@@ -1,43 +1,46 @@
 # LearnPython2 
 
-Example 1: A Good First Program
+Exercise 1: A Good First Program
 I learned there is no comile fuction in python. Inorder to run the program
 you type python2 filename.py in the command line. Also, that you use # 
 instead of // to make a comment. 
 
-Example 2: Comments and Pound Characters
+Exercise 2: Comments and Pound Characters
 The lesson was on tips to find errors better such as reading the code 
 backwards or reading it out loud. 
 
-Example 3: Numbers and Math
+Exercise 3: Numbers and Math
 I learned that comparison in python are more simple. Also, you don't have 
 to have a ; at the end of each line. Lastly, for print line you don't have 
 to have (). 
 
-Example 4: Variables and Names
+Exercise 4: Variables and Names
 When declaring variables you don't have to state its type ahead of time. 
 
-Example 5: More Variables and Printing
+Exercise 5: More Variables and Printing
 When setting a variable to a string you have to enclose it in 'string'. 
 When printing a variable thats a string you leave %s when you want the 
 string and %d for an int. After the ending " you put % and then the 
 variable name. If you have multiple you can put them in () seperated by 
 commas. 
 
-Example 6: Strings and Text
+Exercise 6: Strings and Text
 Went through more ways of treating strings.
 
-Example 7: More Printing
+Exercise 7: More Printing
 This program had nothing new in it. 
 
-Example 8: Printing, Printing
+Exercise 8: Printing, Printing
 This program had nothing new in it. 
 
-Example 9: Printing, Printing, Printing
+Exercise 9: Printing, Printing, Printing
 If you type Print """ it will print out anything after for how every many lines untill you type """.
 
-Example 10: What Was That?
+Exercise 10: What Was That?
 Goes through escape seguences.
 
-Example 11: Asking Questions
+Exercise 11: Asking Questions
 Worked with inputing values.
+
+Exercise 12: Prompting People
+
