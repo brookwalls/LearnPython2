@@ -17,3 +17,7 @@ have ().
 Example 4:
 When declaring variables you don't have to state its type ahead of time. 
 
+Example 5:
+When setting a variable to a string you have to enclose it in 'string'. When 
+printing a variable thats a string you leave %s when you want the string and 
+%d for an int. After the ending " you put % and then the variable name. If you have multiple you can put them in () seperated by commas. 
