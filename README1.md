@@ -32,3 +32,8 @@ This program had nothing new in it.
 
 Example 8: Printing, Printing
 This program had nothing new in it. 
+
+Example 9: Printing, Printing, Printing
+If you type Print """ it will print out anything after for how every many lines untill you type """.
+
+Example 10: What Was That?
