@@ -93,3 +93,6 @@ Learned the syntax for if statements.
 Exercise 30: Else and If
 Learned the syntax for if-elif-else statements.
 
+Exercise 31: Making Decisions
+
+
