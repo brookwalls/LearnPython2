@@ -67,4 +67,7 @@ Exercise 19: Functions and Variables
 Went through different ways of giving arguments to functions. 
 
 Exercise 20: Functions and Files
+Taugh how to print out a file line by line.
+
+Exercise 21: Functions Can Return Something
 
