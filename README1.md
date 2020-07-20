@@ -73,7 +73,15 @@ Exercise 21: Functions Can Return Something
 Went through how to get a function to return a value.
 
 Exercise 24: More Practice 
-No new stuff
+This program had nothing new in it.
 
 Exercise 25: Even More Practice
+In the command line, import ex25, define a variable and called on functions in ex25. 
 
+Exercise 26: Congratulations, Take a Test!
+I fixed the error and made the program run.
+
+Exercise 27: Memorizing Logic
+Studied truth terms and tables. 
+
+Exercise 28: Boolean Practice
