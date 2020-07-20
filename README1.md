@@ -61,3 +61,10 @@ Exercise 17: More Files
 Went through more ways of dealing with files
 
 Exercise 18: Names, Variables, Code, Functions
+Went through the syntax for making functions.
+
+Exercise 19: Functions and Variables
+Went through different ways of giving arguments to functions. 
+
+Exercise 20: Functions and Files
+
