@@ -70,4 +70,10 @@ Exercise 20: Functions and Files
 Taugh how to print out a file line by line.
 
 Exercise 21: Functions Can Return Something
+Went through how to get a function to return a value.
+
+Exercise 24: More Practice 
+No new stuff
+
+Exercise 25: Even More Practice
 
