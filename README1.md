@@ -85,3 +85,11 @@ Exercise 27: Memorizing Logic
 Studied truth terms and tables. 
 
 Exercise 28: Boolean Practice
+Practice boolean tests to see if I got the correct answer.
+
+Exercise 29: What If
+Learned the syntax for if statements. 
+
+Exercise 30: Else and If
+Learned the syntax for if-elif-else statements.
+
