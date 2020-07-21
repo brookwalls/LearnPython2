@@ -101,3 +101,11 @@ Learned the syntax for for-loops, how they work in python and there limitations.
 
 Exercise 33: While-Loops
 Learned the syntax for while-loops. 
+
+Exercise 35: Branches and Functions
+This program had nothing new in it.
+
+Exercise 36: Designing and Debugging
+
+Exercise 38: Doing Things to Lists
+
