@@ -97,6 +97,7 @@ Exercise 31: Making Decisions
 Expanded the program
 
 Exercise 32: Loops and Lists
+Learned the syntax for for-loops and how they work in python.
 
 Exercise 33: While-Loops
 
