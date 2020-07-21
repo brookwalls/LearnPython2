@@ -94,5 +94,10 @@ Exercise 30: Else and If
 Learned the syntax for if-elif-else statements.
 
 Exercise 31: Making Decisions
+Expanded the program
+
+Exercise 32: Loops and Lists
+
+Exercise 33: While-Loops
 
 
