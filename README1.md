@@ -113,4 +113,7 @@ Exercise 39: Dictionaries, Oh Lovely Dictionaries
 Learned the syntax for dictionaries, how to use them, what they can be used for, and there limitation of not keeping the order items are entered. You can use collections.OrderedDict to fix this limition. 
 
 Exercise 40: Modules, Classes, and Objects
+Learned the syntax for modules, classes, and objects.
+
+Exercise 41: Learning to Speak Object Oriented
 
