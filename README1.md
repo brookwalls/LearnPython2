@@ -105,7 +105,12 @@ Learned the syntax for while-loops.
 Exercise 35: Branches and Functions
 This program had nothing new in it.
 
-Exercise 36: Designing and Debugging
-
 Exercise 38: Doing Things to Lists
+Went through how python reads making changes to lists. Went into more 
+function you can use to make changes to list.
+
+Exercise 39: Dictionaries, Oh Lovely Dictionaries
+Learned the syntax for dictionaries, how to use them, what they can be used for, and there limitation of not keeping the order items are entered. You can use collections.OrderedDict to fix this limition. 
+
+Exercise 40: Modules, Classes, and Objects
 
