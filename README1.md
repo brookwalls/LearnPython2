@@ -116,4 +116,10 @@ Exercise 40: Modules, Classes, and Objects
 Learned the syntax for modules, classes, and objects.
 
 Exercise 41: Learning to Speak Object Oriented
+Learned about object oriented.
+
+Exercise 42: Is-A, Has-A, Objects, and Classes
+Learned the syntax for Is-A and Has-A.
+
+Exercise 43: Basic Object-Oriented Analysis and Design
 
