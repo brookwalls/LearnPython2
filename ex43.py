@@ -43,10 +43,18 @@ class CentralCorridor(Scene):
 		print "put it in the bridge, and blow the ship up after getting into an "
 		print "escape pod."
 		print "\n"
+		print "The only thing I can tell you is that its beter to be light "
+		print "hearted and tell a joke in this time. Be the one we right now "
+		print "the one who can save the day and the one you are. Be carful "
+		print "handle the bomb carefully. In the end remember that you are not"
+		print "alone we are with you we are both going in two battle."
+		print "\n"
 		print "You're running down the central corridor to the Weapons Armory when"
 		print "a Gothon jumps out, red scaly skin, dark grimy teetg, and evil clown costume"
 		print "flowing around his hate filled body. He's blocking the door to the"
 		print "Armory and about to pull a weapon to blast you."
+		
+		
 		
 		action = raw_input("> ")
 		
@@ -67,7 +75,7 @@ class CentralCorridor(Scene):
 			return 'death'
 			
 		elif action == "tell a joke":
-			print "Lunky for you they made you learn Gothon insults in the academy."
+			print "Lucky for you they made you learn Gothon insults in the academy."
 			print "You tell the one Gothon joke you know:"
 			print "Lbhe sbgure vf fb sng, jura fur fvgf nebhaq gur ubhfr, fur fvgf nebhaq gur ubhfr."
 			print "The Gothon stops, tries not to laugh, then busts out laughing and can't move."
@@ -90,14 +98,17 @@ class LaserWeaponArmory(Scene):
 		print "and you need the code to get the bomb out. If you get the code"
 		print "wrong 10 times then the lock closes forever and you can't"
 		print "get the bomb. The code is 3 digits."
-		code = "%d%d%d" % (randint(1,9), randint(1,9), randint(1,9))
+		#code = "%d%d%d" % (randint(1,9), randint(1,9), randint(1,9))
+		code = 111
 		guess = raw_input("[keypad]> ")
+		guess = int(guess)
 		guesses = 0
 		
-		while guess != code and guesses < 10:
+		while guess != code and guesses < 9:
 			print "BZZZZEDDD!"
 			guesses += 1
 			guess = raw_input("[keypad]> ")
+			guess = int(guess)
 			
 		if guess == code:
 			print "The container clicks open and the seal breaks, letting gas out."
@@ -153,18 +164,30 @@ class EscapePod(Scene):
 
 	def enter(self):
 		print "You rush through the ship desperately trying to make it to"
-		print "the escape pod before the whole ship explodes. It seems like"
-		print "hardly any Gothons are on the ship, so your run is clear of"
-		print "interference. You get to the chamber with the escape pods, and"
-		print "now need to pick one to take. Some of them could be damaged"
-		print "but you don't have time to look. There's 5 pods, which one"
-		print "do you take?"
+		print "the escape pod before the whole ship explodes." 
+		print "There are three Gothons in your way. What order do you shot them in!"
+		print "1. He is loading his gun."
+		print "2. He is not looking at you."
+		print "3. He is grabing his gun."
 		
-		good_pod = randint(1,5)
+		number = raw_input("> ")
+		
+		if number == "312" or number == "132":
+			print "You choose correctly. You run is clear of interference"
+			print "You get to the chamber with the escape pods, and"
+			print "now need to pick one to take. Some of them could be damaged"
+			print "but you don't have time to look. There's 5 pods, which one"
+			print "do you take?"
+		else:
+			print "You choose wrong."
+		
+		#good_pod = randint(1,5)
+		good_pod = 2
 		guess = raw_input("[pod #]> ")
+		guess = int(guess)
 		
 		
-		if int(guess) != good_pod:
+		if guess != good_pod:
 			print "You jump into pod %s and hit the eject button." % guess
 			print "The pod escapes out into the void of space, then"
 			print "implodes as the hull ruptures, crushing your body"
@@ -177,7 +200,7 @@ class EscapePod(Scene):
 			print "back and see your skip implode then explode like a"
 			print "bright star, taking out the Gothon ship at the same"
 			print "time. You won!"
-			
+			exit(3)
 			
 			
 			return 'finished'		

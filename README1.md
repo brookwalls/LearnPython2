@@ -123,3 +123,7 @@ Learned the syntax for Is-A and Has-A.
 
 Exercise 43: Basic Object-Oriented Analysis and Design
 
+Exercise 44: Inheritance vs. Composition
+
+Exercise 46: A Project Skeleton
+
