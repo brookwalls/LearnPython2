@@ -1,129 +1,152 @@
 # LearnPython2 
 
 Exercise 1: A Good First Program
-I learned there is no comile fuction in python. Inorder to run the program
-you type python2 filename.py in the command line. Also, that you use # 
-instead of // to make a comment. 
+	- No compile fuction in python 
+	- Type python2 filename.py to run the program in the command line
+	- Use # instead of // to make a comment 
 
 Exercise 2: Comments and Pound Characters
-The lesson was on tips to find errors better such as reading the code 
-backwards or reading it out loud. 
+	- Tips to find errors: reading the code backwards or out loud
 
 Exercise 3: Numbers and Math
-I learned that comparison in python are more simple. Also, you don't have 
-to have a ; at the end of each line. Lastly, for print line you don't have 
-to have (). 
+	- Comparison in python are more simple
+	- Don't need a ; at the end of each line
+	- For print line you don't have to have () just ""
+	- still use %d %s
 
 Exercise 4: Variables and Names
-When declaring variables you don't have to state its type ahead of time. 
+	- When declaring variables you don't state its type 
 
 Exercise 5: More Variables and Printing
-When setting a variable to a string you have to enclose it in 'string'. 
-When printing a variable thats a string you leave %s when you want the 
-string and %d for an int. After the ending " you put % and then the 
-variable name. If you have multiple you can put them in () seperated by 
-commas. 
+	- When setting variable to string enclose it in 'string'
+	- When printing variables leave %s for string and %d for an int. 
+	- After the ending " you put % and then the variable name
+	- For multiple put them in () seperated by commas. 
 
 Exercise 6: Strings and Text
-Went through more ways of treating strings.
+	- Went through what you can do with strings variables.
 
 Exercise 7: More Printing
-This program had nothing new in it. 
+	- Practice
 
 Exercise 8: Printing, Printing
-This program had nothing new in it. 
+	- Practice 
 
 Exercise 9: Printing, Printing, Printing
-If you type Print """ it will print out anything after for how every many lines untill you type """.
-
+	- Print """ prints out anything after for how every many lines untill """
+	
 Exercise 10: What Was That?
-Goes through escape seguences.
+	- Escape sequences: formats print lines and prints special characters
 
 Exercise 11: Asking Questions
-Worked with inputing values.
+	- raw_input allows the user to input values
 
 Exercise 12: Prompting People
-Went through a different way of getting input values.
+	- Ex: raw_input("Question? "), can be used to prompt a input
 
 Exercise 13: Parameters, Unpacking, Variables
-Went through how to import input values.
+	- Went through how to import input values when runing the file
 
 Exerise 14: Prompting and Passing
-Went through using multiple ways of passing input in one file.
+	- Went through ways of getting input and using what your given
 
 Exerise 15: Reading Files
-Went through two way you can read a file.
-
+	- Went through two way you can read a file
+	- open(filename), opens the file
+	- filename_var.read(), reads the file
+	- print filename_var.read(), prints out the file 
+	
 Exercise 16: Reading and Writing Files
-The program reads the file and then writes information into the file.
+	- Program: opens, reads and writes information into the file.
+	- Mentions commands you can give files such as close, read, readline, truncate, write(stuff)
 
 Exercise 17: More Files
-Went through more ways of dealing with files
+	- Program used open, write, close, read to show how you can use file and what you can do with them.
 
 Exercise 18: Names, Variables, Code, Functions
-Went through the syntax for making functions.
+	- Went through the syntax for making functions
+	- def function_name(args):
 
 Exercise 19: Functions and Variables
-Went through different ways of giving arguments to functions. 
+	- Went through different ways of giving arguments to functions.
+	  - Give numbers directly
+	  - Variables from script
+    - You can math, Ex: cheese_and_crackers(10 + 20, 5 + 6)
+    - You can use variables and math
 
 Exercise 20: Functions and Files
-Taugh how to print out a file line by line.
+	- Program: printed out a file line by line
 
 Exercise 21: Functions Can Return Something
-Went through how to get a function to return a value.
+	- Use keyword return when you want the function to return a value
 
 Exercise 24: More Practice 
-This program had nothing new in it.
+	- Practice 
 
 Exercise 25: Even More Practice
-In the command line, import ex25, define a variable and called on functions in ex25. 
+	- In the command line: import ex25, define a variable and called on functions in ex25 
 
 Exercise 26: Congratulations, Take a Test!
-I fixed the error and made the program run.
+	- Fixed errors and made the program run
 
 Exercise 27: Memorizing Logic
-Studied truth terms and tables. 
+	- Studied truth terms and tables 
 
 Exercise 28: Boolean Practice
-Practice boolean tests to see if I got the correct answer.
+	- Practice boolean tests to see if I got the correct answer
 
 Exercise 29: What If
-Learned the syntax for if statements. 
+	- Syntax for if statements: if var1 operator var2:
 
 Exercise 30: Else and If
-Learned the syntax for if-elif-else statements.
+	- Syntax for if-elif-else statements
+	- if var1 operator var2:
+	- elif var1 operator var2:
+	- else var1 operator var2:
+	- You can have as many elif statements as you want
+	
 
 Exercise 31: Making Decisions
-Expanded the program
+	- Program had multiple if statments that lead to other if starments, I expanded the program
 
 Exercise 32: Loops and Lists
-Learned the syntax for for-loops, how they work in python and there limitations.
+	- In python they have a for-in loop not a for-loop
+	- Syntax for for-in loops: for iterator_var in sequence:
+	- Went through how for-in loops work
 
 Exercise 33: While-Loops
-Learned the syntax for while-loops. 
+	- Syntax for while-loops: while expression: 
 
 Exercise 35: Branches and Functions
-This program had nothing new in it.
+	- Practice
 
 Exercise 38: Doing Things to Lists
-Went through how python reads making changes to lists. Went into more 
-function you can use to make changes to list.
+	- Went through how python reads making changes to lists. 
+	- You can use function to make changes to list like pop and join.
 
 Exercise 39: Dictionaries, Oh Lovely Dictionaries
-Learned the syntax for dictionaries, how to use them, what they can be used for, and there limitation of not keeping the order items are entered. You can use collections.OrderedDict to fix this limition. 
+	- Syntax for dictionaries: dictionary = {}
+	- Went through how to use then and what they can be used for
+	- Dictionary limitation: Not keeping the order items are entered.
+	- Solution: OrderedDict() 
 
 Exercise 40: Modules, Classes, and Objects
-Learned the syntax for modules, classes, and objects.
+	- Modules are like dictionaries
+	- Classes are like modules
+	- Objects are like mini-imports
+	- Learned the syntax for modules, classes, and objects.
 
 Exercise 41: Learning to Speak Object Oriented
-Learned about object oriented.
+	- Learned about object oriented design.
 
 Exercise 42: Is-A, Has-A, Objects, and Classes
-Learned the syntax for Is-A and Has-A.
+	- Learned the syntax for Is-A and Has-A.
 
 Exercise 43: Basic Object-Oriented Analysis and Design
-
+	- Process of designing and making a program
+	
 Exercise 44: Inheritance vs. Composition
+	- Went through inheritance and compostition, how to use them, the different types, and the advantages and disadvantages. 
 
 Exercise 46: A Project Skeleton
-
+	- Went through how to set up a good project "skeleton" directory
